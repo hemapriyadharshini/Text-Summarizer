@@ -14,3 +14,7 @@
 **Notes:**
 
 nltk is a great tool for text identification and classficiation. It is possible that nltk parses letter by letter for word and sentence classification as the output often displays words in chucks unlike the normal text editors. Ex: First line of above output shows 't' in one line and 'o' in next line instead of 'to' in next line
+
+**Next Steps:**
+
+There is an opportunity to add argparser package to get input from user dynamically during the program runtime and parse article and provide summarized output

@@ -18,3 +18,5 @@ nltk is a great tool for text identification and classficiation. It is possible 
 **Next Steps:**
 
 There is an opportunity to add argparser package to get input from user dynamically during the program runtime and parse article and provide summarized output
+
+Credits: https://www.analyticsvidhya.com/blog/2020/12/tired-of-reading-long-articles-text-summarization-will-make-your-task-easier/
